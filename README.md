@@ -1,42 +1,36 @@
 # MY App
 
-Welcome to MY App! This application is designed to help you manage your tasks efficiently.
+This is a HTML project.
+
+## Getting Started
+
+To get started with this project, clone the repository and open the `index.html` file in your browser.
+
+```bash
+git clone <repository-url>
+cd MY App
+open index.html
+```
+
+## Project Structure
+
+```
+/home/aryan/Documents/Html/MY App/
+├── index.html
+├── styles.css
+└── script.js
+```
 
 ## Features
 
-- Task management
-- Reminders
-- Notifications
-- User-friendly interface
-
-## Installation
-
-To install MY App, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/my-app.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd my-app
-    ```
-3. Install the dependencies:
-    ```bash
-    npm install
-    ```
-
-## Usage
-
-To start the application, run:
-```bash
-npm start
-```
+- Feature 1
+- Feature 2
+- Feature 3
 
 ## Contributing
 
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.
+If you would like to contribute, please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
