@@ -15,7 +15,7 @@ open index.html
 ## Project Structure
 
 ```
-/home/aryan/Documents/Html/MY App/src
+../Html/MY App/src
 ├── index.html
 ├── styles.css
 └── script.js
